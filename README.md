@@ -1,7 +1,7 @@
 # Investigating systemic racial bias in federal prisons
 
 ![The first page of an anonymous inmate's Custody Rating Scale form](https://assets.documentcloud.org/documents/7274424/pages/CRS-assessment-form-p1-large.gif)
-_The first page of an anonymous inmate's Custody Rating Scale form_
+_The first page of an anonymous inmate's Custody Rating Scale form._
 
 This is the repository for a talk on investigating systemic bias in Canada's federal prison risk assessments. The slides can be found here: https://tomcardoso.github.io/dd-bias-2021/
 
@@ -17,6 +17,7 @@ Links to some of the main stories in the series:
 - [**‘This needs action’: NDP, experts call for solutions to racial bias in federal prison risk assessments** (Oct. 26)](https://www.theglobeandmail.com/canada/article-this-needs-action-ndp-experts-call-for-solutions-to-racial-bias-in/)
 - [**Fight against systemic racism in prison wins all-party support** (Oct. 26)](https://www.theglobeandmail.com/canada/article-committee-mps-support-push-to-study-systemic-prison-racism/)
 - [**More needs to be done to fight systemic racism in federal prisons, Justin Trudeau says** (Oct. 27)](https://www.theglobeandmail.com/canada/article-more-needs-to-be-done-to-fight-systemic-racism-in-federal-prisons/)
+- [**MPs ask Bill Blair for timeline to address systemic racism in prisons** (Nov. 2)](https://www.theglobeandmail.com/canada/article-mps-ask-bill-blair-for-timeline-to-address-systemic-racism/)
 - [**For Indigenous women, systemic racial bias in prison leaves many worse off than men** (Dec. 31)](https://www.theglobeandmail.com/canada/article-for-indigenous-women-systemic-racial-bias-in-prison-leaves-many-worse/)
 - [**Inmate risk assessment tool still in use 16 years after report raises concerns about bias against women** (Jan. 3)](https://www.theglobeandmail.com/canada/article-inmate-risk-assessment-tool-still-in-use-16-years-after-report-calls/)
 - [**Proposed class-action suit against Ottawa suggests inmates face systemic bias in risk assessments** (Jan. 12)](https://www.theglobeandmail.com/canada/article-proposed-class-action-suit-against-ottawa-suggests-inmates-face/)
